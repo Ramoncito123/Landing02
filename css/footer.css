@@ -1,0 +1,23 @@
+
+        .footer{
+            width: 80%;
+            height: 80px;
+            background-color: rgba(93, 71, 190, 0.856);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .img-footer{
+            width: 60%;
+            height: 60%;
+            border-radius: 25px;
+            filter:hue-rotate(90deg);
+
+        }
+        .lista-footer{
+            display: flex;
+            list-style-type: none;
+        }
+        .item-footer{
+            padding: 15px;
+        }
